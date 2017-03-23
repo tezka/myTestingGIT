@@ -1,0 +1,2 @@
+# myTestingGIT
+Testing GIT functionalities
